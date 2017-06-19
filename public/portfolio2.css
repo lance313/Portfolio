@@ -1,0 +1,21 @@
+.circular--square{
+  display: inline-block;
+  position: relative;
+  /*left: 33em;*/
+  top: -30px;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #336b24;
+}
+
+section{
+  float: right;
+}
+h1 {
+  text-align: left;
+  font-size: 1em;
+  font-family:
+}
